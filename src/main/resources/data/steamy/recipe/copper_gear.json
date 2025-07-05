@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " c ",
+    "cCc",
+    " c "
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "C": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "id": "steamy:copper_gear",
+    "count": 4
+  }
+}

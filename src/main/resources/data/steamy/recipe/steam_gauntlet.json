@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D##",
+    "#S#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:brass_ingots"
+    },
+    "D": {
+      "item": "steamy:copper_gear"
+    },
+    "S": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "id": "steamy:steam_gauntlet",
+    "count": 1
+  }
+}

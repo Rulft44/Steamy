@@ -3,9 +3,9 @@
 	"id": "steamy",
 	"version": "${version}",
 	"name": "Steamy",
-	"description": "This is an example description! Tell NO ONE what your mod is about!",
+	"description": "This is a sigma description! Tell NO ONE what this mod is about!",
 	"authors": [
-		"Me!"
+		"Rulft"
 	],
 	"contact": {
 		"homepage": "",

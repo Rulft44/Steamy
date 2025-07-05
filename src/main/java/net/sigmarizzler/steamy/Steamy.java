@@ -2,6 +2,7 @@ package net.sigmarizzler.steamy;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.sigmarizzler.steamy.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,9 +12,10 @@ public class Steamy implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("We rizzing up baddies with this one! :fire: trolololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololol");
-
+		LOGGER.info("We rizzing up baby gronk with this one! :fire: trolololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololololol");
 		//skibidi
+
+		ModItems.initialize();
 
 	}
 }
