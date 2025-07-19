@@ -7,7 +7,7 @@ A tiny steampunk styled mod which introduces a steam powered gauntlet for combat
 | Feature | Description |
 |----------------------|--------------------------------------------------------|
 | Steam Gauntlet | Tool with both weapon function while charged |
-| Steam Station | A recharge block for the gauntlet, Wireless charges with water and fuel |
+| Steam Station | A recharge block for the gauntlet, charges with water and fuel |
 
 ### ⚙️ Core Features
 
