@@ -2,7 +2,10 @@ package net.sigmarizzler.steamy;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.sigmarizzler.steamy.block.ModBlocks;
+import net.sigmarizzler.steamy.block.entity.ModBlockEntities;
 import net.sigmarizzler.steamy.item.ModItems;
+import net.sigmarizzler.steamy.screen.ModScreenHandlers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -16,6 +19,9 @@ public class Steamy implements ModInitializer {
 		//skibidi
 
 		ModItems.initialize();
+		ModBlocks.initialize();
+		ModBlockEntities.initialize();
+		ModScreenHandlers.initialize();
 
 	}
 }

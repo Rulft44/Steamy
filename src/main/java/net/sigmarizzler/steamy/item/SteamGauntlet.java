@@ -75,6 +75,9 @@ public class SteamGauntlet extends ToolItem {
     }
 
 
+    //TODO Fix Bug: Destroy block progress resets
+    //TODO Make Gauntlet destroy Steam Station
+
     @Override
     public int getItemBarColor(ItemStack stack) {
         return 0xa1e4ff;

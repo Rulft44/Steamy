@@ -1,5 +1,7 @@
 {
   "item.steamy.steam_gauntlet": "Steam Gauntlet",
   "item.steamy.brass_ingot": "Brass Ingot",
-  "item.steamy.copper_gear": "Copper Gear"
+  "item.steamy.copper_gear": "Copper Gear",
+
+  "block.steamy.steam_station": "Steam Station"
 }
